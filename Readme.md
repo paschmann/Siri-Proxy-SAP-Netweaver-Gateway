@@ -1,4 +1,4 @@
-#Siri Proxy for SAP Netweaver Gateway
+Siri Proxy for SAP Netweaver Gateway
 =========
 After hearing about folks hacking Apple’s Siri to do things like starting their Viper and controlling their thermostat, I thought about utilizing voice based integration with SAP to retrieve data. By default, Apples technology is pretty well locked down, but it didn’t take long for a developer to introduce a small workaround using a ruby app and a DNS filter. The filter intercepts the call to apple and allows you to inject your own questions, responses and data. If you are interested in learning more, this summary can guide you through the process of setting up and actually communicating with SAP from Siri.
 
