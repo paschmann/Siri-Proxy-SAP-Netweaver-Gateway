@@ -52,3 +52,10 @@ In this example we:
 ![Siri proxy Integration](http://scn.sap.com/servlet/JiveServlet/downloadImage/38-61257-76116/photo2.jpg) ![Siri proxy Integration](http://scn.sap.com/servlet/JiveServlet/downloadImage/38-61257-76117/photo1.jpg)
 
 [Click here for a short demo video on youtube.](http://www.youtube.com/watch?v=_-ovLb8DgaM&rel=0)
+
+License
+----
+
+Siri Proxy for SAP Netweaver Gateway is available under the MIT license.
+
+Copyright © 2014 Paul Aschmann
